@@ -1,0 +1,13 @@
+Moustafa Alhabashy
+Full-Stack Developer — Egypt
+
+Portfolio CV placeholder.
+Replace this file with your real CV PDF when ready, then update the href in Hero.tsx if needed.
+
+Focus:
+- Websites
+- Dashboards
+- FiveM interfaces and tools
+- Discord systems
+- Full-stack apps
+- UI/UX redesigns
